@@ -36,6 +36,8 @@ your/local/folder/path
 |-- RawPhotos_rawfile.arw
 |-- OtherFormats_script.py
 
+Now, your files are grouped according to their respective categories for a cleaner and more manageable file system.
+
 ## Contributing
 
 - Contributions are welcome! Feel free to open issues, submit feature requests, or create pull requests to enhance the functionality of the script.
